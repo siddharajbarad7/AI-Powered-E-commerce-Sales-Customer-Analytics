@@ -300,7 +300,8 @@ Export: churn_predictions.csv → Power BI
 **Your Name**
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 - GitHub: [github.com/yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- Email: siddharajbarad9@gamil.com
+  
 
 ---
 
